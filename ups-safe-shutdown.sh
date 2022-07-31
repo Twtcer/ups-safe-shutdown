@@ -1,7 +1,7 @@
 #!/bin/bash
 
-target_ip=192.168.2.66
-failure_count=0
+target_ip=192.168.123.1
+failure_count=3
 shutdown_failure_count_threshold=15
 
 while :
